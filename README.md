@@ -40,7 +40,7 @@ The design creation involved various features, including:
 
 1. Clone the repository: `git clone https://github.com/Stoic-Coder2003/ToDoList.git`
 2. Open `index.html` in your preferred browser.
-3. You may even use the deployed app through: 
+3. You may even use the deployed app through: https://to-do-list-orpin-nu-86.vercel.app/
 
 # 📸 **Product Video:**
 
