@@ -15,7 +15,7 @@ make the usage of this app, easier for the users.
 
 # 💭 **Development Highlights:**
 
-The design creation involved various features, including:
+The design creation involves various features, including:
 
 ## 1. Task Management
 - Implemented adding and removing tasks dynamically.
